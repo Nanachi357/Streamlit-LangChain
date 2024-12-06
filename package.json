@@ -1,0 +1,14 @@
+{
+  "name": "streamlit-puppeteer-app",
+  "version": "1.0.0",
+  "description": "Streamlit and Puppeteer integration in Docker",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
