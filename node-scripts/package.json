@@ -4,9 +4,9 @@
   "description": "Streamlit and Puppeteer integration in Docker",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^19.0.0",
+    "puppeteer": "^23.3.0",
     "puppeteer-extra": "^3.3.4",
-    "puppeteer-extra-plugin-stealth": "^2.9.0"
+    "puppeteer-extra-plugin-stealth": "^2.11.0"
   },
   "scripts": {
     "start": "node index.js"
